@@ -1,0 +1,21 @@
+{
+  "customerId" : 111,
+  "name" : "Jimmy",
+  "dateOfBirth" : "2012-12-31",
+  "annualSalary" : 59000.0,
+  "address" : {
+    "street" : "884 kinwest parkway",
+    "aptNo" : 231,
+    "city" : "Irving",
+    "state" : "Texas",
+    "country" : "USA",
+    "zipCode" : 75063
+  },
+  "payment" : {
+    "cardNumber" : 123456786,
+    "cardName" : "Discover Bank",
+    "dateFrom" : "2016-10-12",
+    "dateTo" : "2020-10-11",
+    "cardType" : [ "CreditCard", "DebitCard" ]
+  }
+}
